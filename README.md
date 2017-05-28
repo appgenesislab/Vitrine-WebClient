@@ -1,5 +1,7 @@
 # VitrineWebClient
 
+Angular 2 Web-Client Application that serves as a front-end to the Vitrine back-end server
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
 
 ## Development server
